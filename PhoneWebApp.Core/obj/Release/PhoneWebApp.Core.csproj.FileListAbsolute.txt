@@ -1,0 +1,15 @@
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\PhoneWebApp.Core.dll.config
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\PhoneWebApp.Core.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\PhoneWebApp.Core.pdb
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Abp.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Castle.Core.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Castle.Facilities.Logging.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Castle.Windsor.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\System.Collections.Immutable.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Abp.xml
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Castle.Core.xml
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Castle.Facilities.Logging.xml
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\Castle.Windsor.xml
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\bin\Release\System.Collections.Immutable.xml
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\obj\Release\PhoneWebApp.Core.dll
+C:\Users\robby_m\Documents\Visual Studio 2012\Projects\PhoneWebApp\PhoneWebApp.Core\obj\Release\PhoneWebApp.Core.pdb
